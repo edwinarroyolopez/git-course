@@ -11,8 +11,8 @@
     - git remote add origin => asociar una carpeta local a un repositorio
 
     - git push => Publicar nuestros cambios al repositorio 
-
-    - git pull
+    - git fetch => Trae el historico de lo nuevo que ha pasado en el repositorio
+    - git pull => trae los cambios que han publicado otras personas a mi rama local
 
 ## questions
     - Que es un commit? => La forma de escribir los datos en nuestra rama
@@ -27,3 +27,5 @@
 
     - Como funciona gitflow?
     https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow
+
+**Creando conflicto**
