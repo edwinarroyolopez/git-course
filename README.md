@@ -8,6 +8,12 @@
     - git add . => Agrega arcvhivos
     - git status
 
+    - git remote add origin => asociar una carpeta local a un repositorio
+
+    - git push => Publicar nuestros cambios al repositorio 
+
+    - git pull
+
 # questions
     - Que es un commit? => La forma de escribir los datos en nuestra rama
     - Que es una rama? 
