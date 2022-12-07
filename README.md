@@ -27,3 +27,5 @@
 
     - Como funciona gitflow?
     https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow
+
+    **resolviendo conflictos** 
